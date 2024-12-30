@@ -1,3 +1,4 @@
+// combinatorics.go
 package mce
 
 import (
