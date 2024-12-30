@@ -1,3 +1,4 @@
+// bitset.go
 package mce
 
 type Bitset = []bool
